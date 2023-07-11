@@ -1,2 +1,4 @@
-<link>https://github.com/UkiBorson/Cubase12-PL/releases/download/TEST/Translation1.0.1.XML.bin</link>
-<version>1.0.1</version>
+<root>
+    <link>https://github.com/UkiBorson/Cubase12-PL/releases/download/TEST/Translation1.0.1.XML.bin</link>
+    <version>1.0.1</version>
+</root>
