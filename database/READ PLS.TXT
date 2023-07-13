@@ -1,0 +1,3 @@
+Nie pobieraj nic z folderu database. Pliki tutaj dodane są tylko mi przydatne, nie są one nikomu innemu potrzebne i nie dodają nic do tłumaczenia.
+
+Do not download anything from the database folder. The files added here are only useful to me, they are not needed by anyone else and add nothing to the translation.
